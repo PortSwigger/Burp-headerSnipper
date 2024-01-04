@@ -1,0 +1,13 @@
+Uuid: 9c8ce7d4acf945d9bbf5abab3f77968b
+ExtensionType: 2
+Name: Header Snipper
+RepoName: header-snipper
+ScreenVersion: 1.0
+SerialVersion: 1
+MinPlatformVersion: 0
+ProOnly: False
+Author: Eric Labrador Sainz
+ShortDescription: Snip headers from requests.
+EntryPoint: headerSnipper.py
+BuildCommand: 
+SupportedProducts: Pro, Community
